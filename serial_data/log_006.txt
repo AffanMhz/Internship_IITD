@@ -1,0 +1,141 @@
+
+========================================
+[TAG] DS-TWR initialized. Starting cycles...
+========================================
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] Received frame but not FC_RESPONSE. Dropping.
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1 captured). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00

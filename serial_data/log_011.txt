@@ -1,0 +1,66 @@
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] Listening... (No signals detected yet)
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] Listening... (No signals detected yet)
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> Signal Preamble Detected! Waiting for SFD...
+[ANCHOR] >> RX POLL Success! Sending RESPONSE...
+[ANCHOR] >> RX FINAL Success!
+[ANCHOR] *** SUCCESS! Distance: 3.044 m ***
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] Listening... (No signals detected yet)
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> Signal Preamble Detected! Waiting for SFD...
+[ANCHOR] >> RX POLL Success! Sending RESPONSE...
+[ANCHOR] RX FINAL timeout! Cycle broken.
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> Signal Preamble Detected! Waiting for SFD...
+[ANCHOR] >> RX POLL Success! Sending RESPONSE...
+[ANCHOR] >> RX FINAL Success!
+[ANCHOR] *** SUCCESS! Distance: 1.909 m ***
+[ANCHOR] Listening... (No signals detected yet)
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> Signal Preamble Detected! Waiting for SFD...
+[ANCHOR] >> RX POLL Success! Sending RESPONSE...
+[ANCHOR] >> RX FINAL Success!
+[ANCHOR] *** SUCCESS! Distance: 2.031 m ***
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> Signal Preamble Detected! Waiting for SFD...
+[ANCHOR] >> RX POLL Success! Sending RESPONSE...
+[ANCHOR] >> RX FINAL Success!
+[ANCHOR] *** SUCCESS! Distance: 2.082 m ***
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> Signal Preamble Detected! Waiting for SFD...
+[ANCHOR] >> RX POLL Success! Sending RESPONSE...
+[ANCHOR] >> RX FINAL Success!
+[ANCHOR] *** SUCCESS! Distance: 2.176 m ***
+[ANCHOR] -> Signal Preamble Detected! Waiting for SFD...
+[ANCHOR] >> RX POLL Success! Sending RESPONSE...
+[ANCHOR] >> RX FINAL Success!
+[ANCHOR] *** SUCCESS! Distance: 2.575 m ***
+[ANCHOR] Listening... (No signals detected yet)
+[ANCHOR] -> Signal Preamble Detected! Waiting for SFD...
+[ANCHOR] >> RX POLL Success! Sending RESPONSE...
+[ANCHOR] >> RX FINAL Success!
+[ANCHOR] *** SUCCESS! Distance: 2.415 m ***
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> Signal Preamble Detected! Waiting for SFD...
+[ANCHOR] >> RX POLL Success! Sending RESPONSE...
+[ANCHOR] >> RX FINAL Success!
+[ANCHOR] *** SUCCESS! Distance: 3.410 m ***
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!

@@ -1,0 +1,56 @@
+[15:37:44.7282] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:45.1037] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:45.1374] [ANCHOR] Listening... (no signal)
+[15:37:45.3517] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:45.7718] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:45.8157] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:46.5646] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:46.6997] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:46.9176] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:47.1357] [ANCHOR] Listening... (no signal)
+[15:37:47.1928] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:47.2327] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:48.0278] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:48.0591] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:48.3367] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:49.1356] [ANCHOR] Listening... (no signal)
+[15:37:49.6676] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:49.9216] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:50.6886] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:51.1356] [ANCHOR] Listening... (no signal)
+[15:37:51.2636] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:52.6166] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:52.8026] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:52.9066] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:52.9586] [ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[15:37:53.1347] [ANCHOR] Listening... (no signal)
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] Listening... (no signal)
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] Listening... (no signal)
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] Listening... (no signal)
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] Listening... (no signal)
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] Listening... (no signal)
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ).
