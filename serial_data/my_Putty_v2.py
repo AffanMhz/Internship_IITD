@@ -65,7 +65,7 @@ class SerialLogger:
         clear_btn.pack(side=tk.LEFT, padx=(0, 20))
 
         # NEW FEATURE: Toggle options
-        self.timestamp_var = tk.BooleanVar(value=True)
+        self.timestamp_var = tk.BooleanVar(value=False)
         timestamp_cb = ttk.Checkbutton(toolbar_frame, text="Add Timestamps", variable=self.timestamp_var)
         timestamp_cb.pack(side=tk.LEFT, padx=(0, 15))
 
