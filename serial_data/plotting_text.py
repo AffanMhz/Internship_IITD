@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 files = [
-    "log_018.txt"
+    "log_001.txt"
 ]
 
 distance_pattern = re.compile(r"Distance:\s*([0-9.]+)\s*m")
