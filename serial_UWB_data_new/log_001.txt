@@ -1,0 +1,48 @@
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] Listening... (No signals detected yet)
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] Listening... (No signals detected yet)
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] Listening... (No signals detected yet)
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] Listening... (No signals detected yet)
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] Listening... (No signals detected yet)
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] Listening... (No signals detected yet)
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!
+[ANCHOR] -> ERROR: Preamble Rejected (RXPREJ). Antennas too close or PAC mismatch!

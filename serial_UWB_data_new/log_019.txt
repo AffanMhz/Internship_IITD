@@ -1,0 +1,164 @@
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] >> RESPONSE received (T4). Sending FINAL...
+[TAG] FINAL sent (T5). round1=732316186 reply2_next=545630694
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Status: 02 17 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] >> RESPONSE received (T4). Sending FINAL...
+[TAG] FINAL sent (T5). round1=738581658 reply2_next=539213670
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] >> RESPONSE received (T4). Sending FINAL...
+[TAG] FINAL sent (T5). round1=738284096 reply2_next=540049856
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] >> RESPONSE received (T4). Sending FINAL...
+[TAG] FINAL sent (T5). round1=730579484 reply2_next=547628004
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] >> RESPONSE received (T4). Sending FINAL...
+[TAG] FINAL sent (T5). round1=733713689 reply2_next=544134887
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] >> RESPONSE received (T4). Sending FINAL...
+[TAG] FINAL sent (T5). round1=738055476 reply2_next=539841228
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] >> RESPONSE received (T4). Sending FINAL...
+[TAG] FINAL sent (T5). round1=726895814 reply2_next=551065914
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] >> RESPONSE received (T4). Sending FINAL...
+[TAG] FINAL sent (T5). round1=728151568 reply2_next=549601264
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] >> RESPONSE received (T4). Sending FINAL...
+[TAG] FINAL sent (T5). round1=730532840 reply2_next=547502104
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] >> RESPONSE received (T4). Sending FINAL...
+[TAG] FINAL sent (T5). round1=725117569 reply2_next=553159039
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] >> RESPONSE received (T4). Sending FINAL...
+[TAG] FINAL sent (T5). round1=715444225 reply2_next=562707967
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] >> RESPONSE received (T4). Sending FINAL...
+[TAG] FINAL sent (T5). round1=758635105 reply2_next=519315359
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] >> RESPONSE received (T4). Sending FINAL...
+[TAG] FINAL sent (T5). round1=755945496 reply2_next=522056168
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] >> RESPONSE received (T4). Sending FINAL...
+[TAG] FINAL sent (T5). round1=748432414 reply2_next=529561570
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected.
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] >> RESPONSE received (T4). Sending FINAL...
+[TAG] FINAL sent (T5). round1=746679356 reply2_next=531340228
+
+[TAG] --- NEW DS-TWR CYCLE ---
+[TAG] << POLL sent (T1). Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Status: 02 00 00 00 00
