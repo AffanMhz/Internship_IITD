@@ -1,0 +1,308 @@
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
+
+[TAG] --- NEW CYCLE ---
+[TAG] << TX POLL Sent. Waiting for RESPONSE...
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX ERROR: Preamble Rejected (Too Close!).
+[TAG] RX RESPONSE TIMEOUT! Final Status Reg: 02 00 00 00 00
