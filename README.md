@@ -24,17 +24,17 @@ Secondary work covered BNO055 IMU integration and a literature survey on fusing 
 
 | Milestone | Status |
 |-----------|--------|
-| DW1000 SPI driver (register + sub-register addressing) | ✅ Complete |
-| DW1000 full RF init sequence (AGC / DRX / LDE / FS tuning) | ✅ Complete |
-| LDE microcode load via PMSC/OTP sequence | ✅ Complete |
-| CPLOCK-gated dual-speed SPI (2 MHz init → 8 MHz post-lock) | ✅ Complete |
-| SS-TWR POLL → RESPONSE → FINAL protocol | ✅ Complete |
-| Piggyback t\_round scheme (avoids delayed-TX hardware requirement) | ✅ Complete |
-| Real-time distance output over UART (115200 baud) | ✅ Complete |
-| Python serial logger & plotter for range data | ✅ Complete |
-| BNO055 IMU bring-up on STM32G070CB | ✅ Complete |
-| Serial data logs (20+ sessions) | ✅ Captured |
-| Literature survey: UWB + MI fusion for drones | ✅ Complete |
+| DW1000 SPI driver (register + sub-register addressing) | ✔ Complete |
+| DW1000 full RF init sequence (AGC / DRX / LDE / FS tuning) | ✔ Complete |
+| LDE microcode load via PMSC/OTP sequence | ✔ Complete |
+| CPLOCK-gated dual-speed SPI (2 MHz init → 8 MHz post-lock) | ✔ Complete |
+| SS-TWR POLL → RESPONSE → FINAL protocol | ✔ Complete |
+| Piggyback t\_round scheme (avoids delayed-TX hardware requirement) | ✔ Complete |
+| Real-time distance output over UART (115200 baud) | ✔ Complete |
+| Python serial logger & plotter for range data | ✔ Complete |
+| BNO055 IMU bring-up on STM32G070CB | ✔ Complete |
+| Serial data logs (20+ sessions) | ✔ Captured |
+| Literature survey: UWB + MI fusion for drones | ✔ Complete |
 
 ---
 
