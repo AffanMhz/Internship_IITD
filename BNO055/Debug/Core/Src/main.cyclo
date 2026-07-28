@@ -1,0 +1,16 @@
+../Core/Src/main.c:206:13:phase1_window_reset	1
+../Core/Src/main.c:213:13:phase1_window_update	7
+../Core/Src/main.c:272:13:classify_posture	11
+../Core/Src/main.c:314:14:virtual_z_for_state	3
+../Core/Src/main.c:334:13:compute_lever_arm	1
+../Core/Src/main.c:373:16:pedometer_update	14
+../Core/Src/main.c:459:13:MX_TIM3_PWM_Init	3
+../Core/Src/main.c:502:13:pwm_set_from_velocity	5
+../Core/Src/main.c:537:5:main	15
+../Core/Src/main.c:738:6:SystemClock_Config	3
+../Core/Src/main.c:784:13:MX_I2C1_Init	4
+../Core/Src/main.c:832:13:MX_TIM3_Init	4
+../Core/Src/main.c:881:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:929:13:MX_GPIO_Init	1
+../Core/Src/main.c:948:5:_write	1
+../Core/Src/main.c:960:6:Error_Handler	1
