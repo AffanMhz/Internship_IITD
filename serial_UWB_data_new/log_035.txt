@@ -1,1 +1,0 @@
-[17:42:06.7866] TAG DS-TWR ready. Format: T:ok,r1=<ticks> E:<code>
