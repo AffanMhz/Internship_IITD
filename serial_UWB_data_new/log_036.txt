@@ -1,5 +1,0 @@
-[17:43:00.8427] ANCHOR DS-TWR ready. Format: D:<m> S:ok,prej,fto,err H:listening
-[17:43:03.3407] ANCHOR DS-TWR ready. Format: D:<m> S:ok,prej,fto,err H:listening
-[17:43:04.6766] ANCHOR DS-TWR ready. Format: D:<m> S:ok,prej,fto,err H:listening
-[17:43:05.1295] ANCHOR DS-TWR ready. Format: D:<m> S:ok,prej,fto,err H:listening
-[17:43:05.4898] ANCHOR DS-TWR ready. Format: D:<m> S:ok,prej,fto,err H:listening

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ../Core/Src/system_stm32g0xx.c:187:6:SystemInit	1
 ../Core/Src/system_stm32g0xx.c:235:6:SystemCoreClockUpdate	8
+=======
+../Core/Src/system_stm32g0xx.c:187:6:SystemInit	1
+../Core/Src/system_stm32g0xx.c:235:6:SystemCoreClockUpdate	8
+>>>>>>> e7f9d5fadfd82d3603a8d5404be5383d040668f9

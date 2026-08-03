@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ################################################################################
 # Automatically-generated file. Do not edit!
 # Toolchain: GNU Tools for STM32 (13.3.rel1)
@@ -7,3 +8,14 @@ USER_OBJS :=
 
 LIBS :=
 
+=======
+################################################################################
+# Automatically-generated file. Do not edit!
+# Toolchain: GNU Tools for STM32 (13.3.rel1)
+################################################################################
+
+USER_OBJS :=
+
+LIBS :=
+
+>>>>>>> e7f9d5fadfd82d3603a8d5404be5383d040668f9
