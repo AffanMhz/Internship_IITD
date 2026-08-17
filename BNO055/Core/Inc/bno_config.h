@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #ifndef BOSCH_BNO055_CONF_H
 #define BOSCH_BNO055_CONF_H
 
@@ -34,4 +33,3 @@
 // #define BNO_SMALL_MEMORY_FOOTPRINT
 
 #endif  // BOSCH_BNO055_CONF_H
->>>>>>> e7f9d5fadfd82d3603a8d5404be5383d040668f9
