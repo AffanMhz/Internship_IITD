@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #include <stdint.h>
 #include <stdio.h>
 #include "bno055.h"
@@ -1482,4 +1482,4 @@ error_bno bno055_remap_axis(bno055_t* imu, const bno055_axis_remap xremap,
 error_bno bno055_ext_crystal(bno055_t* imu, const bool use_xtal) {
     return BNO_OK;
 }
->>>>>>> e7f9d5fadfd82d3603a8d5404be5383d040668f9
+
