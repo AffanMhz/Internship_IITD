@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /**
  * Copyright<2022> Daniel Mironow
  *
@@ -1132,4 +1131,3 @@ error_bno bno055_write_regs(bno055_t imu, uint32_t addr, uint8_t* buf,
                             uint32_t buf_size);
 
 #endif
->>>>>>> e7f9d5fadfd82d3603a8d5404be5383d040668f9
